@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Prueba 1",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "Capital de España",
+        "respuesta_correcta": "Madrid"
+      },
+      {
+        "id": 2,
+        "enunciado": "Capital de Portugal",
+        "respuesta_correcta": "Lisboa"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Prueba 2",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "Capital de Francia",
+        "respuesta_correcta": "Paris"
+      },
+      {
+        "id": 2,
+        "enunciado": "Capital de Italia",
+        "respuesta_correcta": "Roma"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Prueba 3",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "Capital de Alemania",
+        "respuesta_correcta": "Berlin"
+      },
+      {
+        "id": 2,
+        "enunciado": "Capital de Inglaterra",
+        "respuesta_correcta": "Londres"
+      }
+    ]
+  }
+  
+]
